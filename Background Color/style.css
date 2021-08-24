@@ -1,0 +1,16 @@
+.wrap {
+  width: 50%;
+  margin: auto;
+}
+
+.button {
+  padding: 5px;
+  width: 100%;
+  font-size: 18px;
+  border: 1px solid #fff;
+}
+
+.button:hover {
+  background-color: #000;
+  color: #fff;
+}
