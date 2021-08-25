@@ -1,3 +1,26 @@
+# Project Name
+> 숫자 맞추기 게임
+
+<br/>
+<br/>
+
+<!-- TABLE OF CONTENTS -->
+## 목차
+
+- [1. 프로젝트 요약](#요구-사항)
+- [2. 사용 기술](#사용-기술)
+- [3. 미리 보기](#미리-보기)
+- [4. 로직 분석](#로직-분석)
+- [5. 기여 방법](#Contributing)
+
+
+<br/>
+<br/>
+
+<!-- ABOUT THE PROJECT -->
+
+![image](https://user-images.githubusercontent.com/77667889/130807871-b1ea94d4-990c-4dc0-a699-e9c285d2d353.png)
+
 # 요구사항
 
 > 나는 간단하게 숫자 맞추기 게임을 만들고 싶다.
@@ -16,7 +39,24 @@
 <br/>
 <br/>
 
-# 로직 분석(간단한 작업으로 쪼개기)
+
+
+## 사용 기술
+
+* 회면기술:HTML5, CSS3, JavaScript
+* 개발도구:Visual Studio Code
+
+<br/>
+<br/>
+
+## 미리 보기
+
+![210825](https://user-images.githubusercontent.com/77667889/130807797-51e7bda9-29c0-4ee3-ade2-35ab2a9e056d.gif)
+
+<br/>
+<br/>
+
+## 로직 분석
 
 <ol>
   <li>1과 100 사이의 숫자 중 무작위로 추출한다.</li>
@@ -44,3 +84,17 @@
     </ol>
   <li>게임이 재시작되면, 게임의 구조와 UI는 리셋되며, step1부터 로직이 시작된다.</li>
 </ol>
+
+
+
+<!-- CONTRIBUTING -->
+## Contributing
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feat/feature name/210824name`)
+3. Commit your Changes (`git commit -m 'Add feature name'`)
+4. Push to the Branch (`git push origin feat/feature name/210824name`)
+5. Open a Pull Request
+
+
+
