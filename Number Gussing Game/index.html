@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <h1>숫자 맞추기 게임</h1>
+
+  <p>컴퓨터는 1부터 100 사이의 숫자를 선택한다. <br />10턴 안에 숫자를 맞춰야한다. <br />매 턴마다 당신의 숫자가 높은지 낮은지 알려줄 것이다</p>
+
+  <div class="form">
+    <label for="guessField">숫자 입력 : </label>
+    <input type="text" id="guessField" class="guessField">
+    <input type="submit" value="확인" class="guessSubmit">
+  </div>
+
+  <div class="resultParas">
+    <p class="guesses"></p>
+    <p class="lastResult"></p>
+    <p class="lowOrHi"></p>
+  </div>
+
+  <script src="function.js"></script>
+</body>
+
+</html>
