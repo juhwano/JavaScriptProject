@@ -4,26 +4,20 @@
 <br/>
 <br/>
 
-<!-- TABLE OF CONTENTS -->
-<details open="open">
-  <summary>목차</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">프로젝트 요약</a>
-      <ul>
-        <li><a href="#built-with">사용 기술</a></li>
-        <li><a href="#Preview">미리보기</a></li>
-      </ul>
-    </li>
-    <li><a href="#contributing">기여 방법</a></li>
-  </ol>
-</details>
+## 목차
+
+- [1. 프로젝트 요약](#프로젝트-요약)
+- [2. 사용 기술](#사용-기술)
+- [3. 미리 보기](#미리-보기)
+- [4. 기여 방법](#Contributing)
+
 
 <br/>
 <br/>
+
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## 프로젝트 요약
 ![image](https://user-images.githubusercontent.com/77667889/130611707-caa03562-6c72-4e65-9fc3-d7739fda39b4.png)
 
 * JavaScript 연습 프로젝트
@@ -32,13 +26,13 @@
 <br/>
 
 
-### Built With
+### 사용 기술
 * 회면기술:HTML5, CSS3, JavaScript
 * 개발도구:Visual Studio Code
 
 <br/>
 
-### Preview
+### 미리 보기
 ![210824](https://user-images.githubusercontent.com/77667889/130611296-8c03e804-e8e5-4458-8096-012a63ac06ae.gif)
 
 <br/>
