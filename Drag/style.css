@@ -1,0 +1,24 @@
+body {
+  background-color: #f6f9fc;
+  font-family: "GowunDodum-Regular", sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 50px 0;
+  font-size: 30px;
+}
+
+.list {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  align-items: center;
+}
+
+.item {
+  background-color: lightgreen;
+  width: 50%;
+  text-align: center;
+  margin: 10px;
+  border: 1px solid #fff;
+}
