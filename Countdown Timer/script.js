@@ -11,6 +11,7 @@ function countdown() {
   const newYearsDate = new Date(newYears);
   // 현재 시간
   const currentDate = new Date();
+  
   // 남은 시간 초
   const totalSeconds = (newYearsDate - currentDate) / 1000;
   // 일시분초 계산
